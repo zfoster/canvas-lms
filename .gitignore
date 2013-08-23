@@ -21,6 +21,7 @@
 /db/*sql
 /exports/
 /Gemfile.lock
+/.rvmrc
 /log/
 /public/app/
 /public/assets/
